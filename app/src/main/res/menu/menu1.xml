@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+
+        android:id="@+id/sospage"
+        android:icon="@drawable/ic_warning_black_24dp"
+        android:title="SOS"
+
+
+        />
+
+    <item
+        android:id="@+id/contactpage"
+        android:icon="@drawable/ic_contacts_black_24dp"
+        android:title="Contacts" />
+
+    <item
+        android:id="@+id/messagepage"
+        android:icon="@drawable/ic_message_black_24dp"
+        android:title="Edit Message" />
+
+</menu>
